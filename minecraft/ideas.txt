@@ -1,0 +1,4 @@
+-- Rusting ores
+-- Combine ores
+-- Enchanted ores
+-- Tornados
