@@ -1,4 +1,4 @@
-### Hello, and welcome to minecraft! :octocat:
+# Hello, and welcome to minecraft! :octocat:
 ![Static Badge](https://img.shields.io/badge/build-passing-green)
 ![Static Badge](https://img.shields.io/badge/moddable_in_lua-blue?style=flat&logo=lua)
 
