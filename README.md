@@ -13,3 +13,5 @@ So do what ever you want with it.
 - Moddable both in C/Lua (maybe)
 - Improved Mob AI! {WIP}
 - and more..
+
+(legacy)
